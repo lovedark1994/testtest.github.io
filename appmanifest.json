@@ -1,0 +1,10 @@
+{
+	"name": "青天大判決",
+	"short_name": "青天大判決",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "portrait",
+	"background_color": "#ffffff",
+	"icons": []
+}
